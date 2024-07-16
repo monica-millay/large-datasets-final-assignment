@@ -3,7 +3,7 @@
 ********************************************************************************
 /*
 Project: 		Final Assignment for PADM-GP.4502.001
-Created by: 	Monica Millay
+Created by:     Monica Millay
 Created on:		10/30/2023
 
 Description:
@@ -16,6 +16,9 @@ Results from the study will be used to inform services for independent contracto
 Notes:
 Estimates from the 2023 Current Population Survey (CPS), Annual Social and Economic Supplement (ASEC).
 (Data extracted from IPUMS https://cps.ipums.org/cps/index.shtml)
+
+WARNING:
+There were only 76 self-employed NYC residents interviewed as a part of the survey, so I used the ASEC-provided weights to create the estimates in this memo.
 */
 
 ********************************************************************************
