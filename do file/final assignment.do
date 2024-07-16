@@ -2,18 +2,20 @@
 ** Preamble **
 ********************************************************************************
 /*
-Project: 		PADM-GP.4502.001
+Project: 		Final Assignment for PADM-GP.4502.001
 Created by: 	Monica Millay
-Created on:		10/130/2023
+Created on:		10/30/2023
 
 Description:
-Final assignment, option #4
+Final Assignment (option #4) for Using Large Datasets in Policy Research (Fall 2023).
+
+Prompt:
+The City is interested in learning if self-employed (not incorporated) workers are at higher risk of poverty than wage workers in NYC. Use the Current Population Survey to examine whether poverty rates differ depending on whether a worker is self-employed or a wage worker and include an explanation for why differences (if any) exist. 
+Results from the study will be used to inform services for independent contractors and other self-employed workers. To make sure that resources are optimally allocated, look into underlying demographic trends (e.g., younger v. older residents).
 
 Notes:
-Estimates from the 2023 Current Population Survey (CPS), Annual Social and Economic Supplement (ASEC)
-
-WARNING:
-[Any warnings about how to use this file go here] 
+Estimates from the 2023 Current Population Survey (CPS), Annual Social and Economic Supplement (ASEC).
+(Data extracted from IPUMS https://cps.ipums.org/cps/index.shtml)
 */
 
 ********************************************************************************
