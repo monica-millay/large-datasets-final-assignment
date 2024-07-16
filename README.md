@@ -10,7 +10,9 @@ After determining that the poverty rate among self-employed New Yorkers is 12.1%
 
 I argue that self-employed workers’ increased likelihood of being part-time is driving their higher rates of poverty and create several graphs to illustrate this point.
 
+<strong>Share of Full and Part-time Workers by Employment Type in NYC, 2022</strong><br>
 <img width="650" alt="image" src="https://github.com/user-attachments/assets/889848eb-8e78-4c89-b20f-9641ee6c5ce8">
+<br>
 
-<strong>Sources:</strong><br>
-I obtained the CPS data from <a href="https://cps.ipums.org/cps/index.shtml" target="_blank">IPUMS</a>. 
+<strong>Source:</strong><br>
+I obtained the 2023 ASEC to the CPS data from <a href="https://cps.ipums.org/cps/index.shtml" target="_blank">IPUMS</a>. Note The income and employment based are on the previous year, or March 1, 2022 through February 28, 2023.
