@@ -1,6 +1,6 @@
 <h1>Self-Employed Workers & Poverty</h1>
 
-This repository contains the Stata code used in my final assignment for the course Using Large Datasets in Policy Research.
+This repository contains the Stata code used in my final assignment for the course Using Large Datasets in Policy Research (PADM-GP 4502) at NYU Wagner, Fall 2023.
 
 The project analyzes the difference in poverty rates between New York City residents who are self-employed versus wage workers using data from the 2023 Annual Social and Economic (ASEC) Supplement to the Current Population Survey (CPS).  
 
