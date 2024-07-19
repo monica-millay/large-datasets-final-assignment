@@ -1,4 +1,4 @@
-<h1>Self-employed Workers & Poverty</h1>
+<h1>Self-Employed Workers & Poverty</h1>
 
 This repository contains the Stata code used in my final assignment for the course Using Large Datasets in Policy Research.
 
