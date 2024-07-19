@@ -6,7 +6,7 @@ The project analyzes the difference in poverty rates between New York City resid
 
 The code first cleans the data and narrows down the dataset to include just self-employed and wage workers. 
 
-After determining that <strong>the poverty rate among self-employed New Yorkers is 12.1%, compared to 5.7% for wage workers</strong>, I explore the data to try to explain why this dramatic difference exists.
+After determining that <strong>the poverty rate among self-employed New Yorkers is 12.1%, compared to 5.7% for wage workers</strong>, I explore the data to try to explain why this difference exists.
 
 I argue that self-employed workers’ increased likelihood of being part-time is driving their higher rates of poverty and create graphs to illustrate this point.
 
